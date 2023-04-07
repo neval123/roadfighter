@@ -1,0 +1,4 @@
+repository "Road_Fighter@PAM_Project_2022@cloud"
+  path "/"
+    br "/main"
+    co "/main"
